@@ -44,7 +44,7 @@ I specialize in developing robust backends and intuitive client-facing applicati
 </td><td valign="top" width="50%">
 
 <div align="center">
-<img src="https://res.cloudinary.com/dqhdhgig5/image/upload/v1768644440/20260107_212644_1_ppzs3f.jpg" align="center" style="width: 100%" />
+<img src="https://res.cloudinary.com/dqhdhgig5/image/upload/v1776877123/20260107_211933_flcpsu.jpg" align="center" style="width: 100%" />
 </div>  
 
 
